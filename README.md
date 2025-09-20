@@ -1,18 +1,51 @@
-# 🧠 Meu Portfólio de Projetos
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/5d/15/a3/5d15a39dc028c32530f2141ee95e142b.jpg" width="200"/>&nbsp;
+  <img src="https://i.pinimg.com/736x/51/3f/d2/513fd2ddfa9b7761018fc5a248e46a42.jpg" width="200"/>&nbsp;
+  <img src="https://i.pinimg.com/736x/18/13/f7/1813f7403112a31e8df8e8c7270ac5f6.jpg" width="200"/>
+</p>
 
-## 🚀 Tecnologias Utilizadas
+---
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) **JavaScript** – Linguagem base para aplicações web.
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) **TypeScript** – Superset do JavaScript com tipagem estática.
-- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square) **NestJS** – Framework Node.js progressivo para construção de APIs robustas e escaláveis.
-- ![Relational Databases](https://img.shields.io/badge/-Relational%20DB-336791?logo=postgresql&logoColor=white&style=flat-square) **Bancos de Dados Relacionais** – PostgreSQL, MySQL, entre outros, com foco em modelagem eficiente e integridade dos dados.
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) **Docker** – Containerização de aplicações para garantir ambientes consistentes e fácil deploy.
+## About Me
+
+Sou desenvolvedor back-end com foco em tecnologias NestJS, TypeScript, e soluções escaláveis em Docker. Tenho experiência com modelagem de dados e integração de sistemas complexos.
+
+---
+
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1gcw&background=00000000&hide_border=false&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=ffffff&fire=ffffff)
+![Github Stats](https://github-readme-stats.vercel.app/api/?username=1gcw&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1gcw&layout=compact&title_color=ffffff&text_color=9f9f9f&bg_color=00000000)
+
+---
+
+## Technologies & Tools
+
+### Programming Languages  
+<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />&nbsp;
+<img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" />&nbsp;
+<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" />&nbsp;
+<img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" />&nbsp;
 
 
-## 🧑‍💻 Sobre mim
+### Frameworks & Libraries  
+<img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" />&nbsp;
+<img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" />&nbsp;
+<img alt="NestJS" src="https://nestjs.com/img/logo-small.svg" width="30" height="30" />&nbsp;
+<img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" />&nbsp;
 
-Sou desenvolvedor back-end com foco em tecnologias **NestJS**, **TypeScript**, e soluções escaláveis em **Docker**. Tenho experiência com modelagem de dados e integração de sistemas complexos.
 
+### Databases  
+<img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" />&nbsp;
+<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" />&nbsp;
+<img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" />&nbsp;
+<img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30" />&nbsp;
 
-📫 Entre em contato: [contatoojuniortavares@gmail.com](mailto:contatoojuniortavares@gmail.com)  
-🌐 LinkedIn: [https://www.linkedin.com/in/josé-amilton-júnior-3208a0260](https://www.linkedin.com/in/jos%C3%A9-amilton-j%C3%BAnior-3208a0260)
+### DevOps & Infrastructure  
+<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" />&nbsp;
+<img alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" />&nbsp;
+
+---
+
+> Made with ❤ by <strong>Failed<strong/>.
