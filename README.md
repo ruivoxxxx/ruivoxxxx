@@ -34,7 +34,7 @@ Sou desenvolvedor back-end com foco em tecnologias NestJS, TypeScript, e solu√ß√
 <img alt="NestJS" src="https://nestjs.com/img/logo-small.svg" width="30" height="30" />&nbsp;
 <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" />&nbsp;
 <img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="30" height="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />&nbsp;
+<img alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="30" height="30" />&nbsp;
 
 ### Databases  
 <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" />&nbsp;
