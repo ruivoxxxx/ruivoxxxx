@@ -8,7 +8,7 @@
 
 ## About Me
 
-Sou desenvolvedor back-end com foco em tecnologias NestJS, TypeScript, e soluções escaláveis em Docker. Tenho experiência com modelagem de dados e integração de sistemas complexos.
+Sou desenvolvedor back-end com foco em desenvolvimento web utilizando as tecnologias NestJS, TypeScript e JavaScript para desenvolvimento. 
 
 ---
 
