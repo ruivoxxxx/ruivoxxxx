@@ -14,7 +14,7 @@ Sou desenvolvedor back-end com foco em tecnologias NestJS, TypeScript, e solu√ß√
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruivoxxxx&background=00000000&hide_border=false&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=ffffff&fire=ffffff)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruivoxxxx&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 ![Github Stats](https://github-readme-stats.vercel.app/api/?username=ruivoxxxx&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivoxxxx&layout=compact&title_color=ffffff&text_color=9f9f9f&bg_color=00000000)
 
@@ -35,6 +35,7 @@ Sou desenvolvedor back-end com foco em tecnologias NestJS, TypeScript, e solu√ß√
 <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" />&nbsp;
 <img alt="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="30" height="30" />&nbsp;
 <img alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="30" height="30" />&nbsp;
+<img alt="Socketi.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="30" height="30" />&nbsp;
 
 ### Databases  
 <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" />&nbsp;
@@ -46,6 +47,7 @@ Sou desenvolvedor back-end com foco em tecnologias NestJS, TypeScript, e solu√ß√
 <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" />&nbsp;
 <img alt="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" />&nbsp;
 
+###
 ---
 
 > Made with ‚ù§ by <strong>Failed<strong/>.
