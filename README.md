@@ -50,4 +50,5 @@ Sou desenvolvedor back-end com foco em tecnologias NestJS, TypeScript, e soluç�
 ###
 ---
 
-> Made with ❤ by <strong>Failed<strong/>.
+> Made with ❤ by <strong>ruivooox<strong/>.
+> Toda Honra e Glória a Jesus!
