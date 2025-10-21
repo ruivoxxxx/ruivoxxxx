@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbXUHVd6nEC4ajIp3FoF_lNj3kCRuEmgweA&s.jpg" width="200"/>&nbsp;
-  <img src="https://media.discordapp.net/attachments/1359115229509713923/1420060100017655828/IMG-20250923-WA0027.jpg" width="200"/>&nbsp;
+  <img src="https://naruto.fandom.com/pt-br/wiki/Shisui_Uchiha" width="200"/>&nbsp;
   <img src="https://i.pinimg.com/736x/18/13/f7/1813f7403112a31e8df8e8c7270ac5f6.jpg" width="200"/>
 </p>
 
