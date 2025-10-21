@@ -15,7 +15,6 @@ Sou desenvolvedor back-end com foco em desenvolvimento web utilizando as tecnolo
 ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruivoxxxx&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api/?username=ruivoxxxx&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivoxxxx&layout=compact&title_color=ffffff&text_color=9f9f9f&bg_color=00000000)
 
 ---
